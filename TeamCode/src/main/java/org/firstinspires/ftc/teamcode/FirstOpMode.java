@@ -4,6 +4,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
 @TeleOp(name = "FirstOpMode")
 public class FirstOpMode extends LinearOpMode {
+    //Jeffrey is literally the coolest
 
     private DcMotor _0LeftBackMotor;
     private DcMotor _1LeftFrontMotor;
